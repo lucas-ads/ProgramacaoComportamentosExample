@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minha Aplicação</string>
+
+    <string name="textLabel">Informe seu nome:</string>
+    <string name="textEditName">Ex. Paulo José</string>
+    <string name="textButtonExecute">Processar</string>
+    <string name="textMessage">Seja Bem-Vindo(a)!</string>
+    <string name="textMessageWithName">Seja Bem-Vindo(a), %s!</string>
+</resources>
+
